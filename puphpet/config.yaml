@@ -34,7 +34,7 @@ vagrantfile:
                     - '--parser future'
         synced_folder:
             vflsf_9t0bct1v6ipe:
-                source: /home/lcfumes/fumes/fumes.com.br
+                source: ../fumes.com.br
                 target: /srv/fumes.com.br
                 sync_type: default
                 smb:
